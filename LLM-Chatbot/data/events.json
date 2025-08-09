@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Bangalore Literature Festival",
+        "date": "2025-06-15",
+        "location": "Jayamahal Palace",
+        "description": "A celebration of literature with authors, poets, and book lovers.",
+        "category": "Literature"
+    },
+    {
+        "name": "Namma Metro Art Walk",
+        "date": "2025-06-20",
+        "location": "MG Road Metro Station",
+        "description": "Explore art installations along the metro line.",
+        "category": "Art"
+    }
+]

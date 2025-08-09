@@ -1,0 +1,17 @@
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+streamlit
+speechrecognition
+transformers
+peft
+torch # This will install the CPU version by default. For GPU, see notes below.
+rank_bm25
+nltk
+fuzzywuzzy
+requests
+datasets
+ragas>=1.0.0 # Specify a version that supports the AnswerRelevancy API
+openai # If you're using language_bridge.py with OpenAI API
+requirements

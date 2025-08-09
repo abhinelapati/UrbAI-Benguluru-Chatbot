@@ -1,0 +1,56 @@
+{
+  "traffic": {
+    "MG Road": {"status": "heavy", "speed": "10 km/h", "last_updated": "2025-06-04 18:03:00"},
+    "Outer Ring Road": {"status": "moderate", "speed": "30 km/h", "last_updated": "2025-06-04 18:03:00"}
+  },
+  "events": {
+    "Lalbagh": {"event": "Bangalore Literature Festival", "date": "2025-06-07", "time": "10:00 AM"},
+    "Palace Grounds": {"event": "Food Fair", "date": "2025-06-08", "time": "12:00 PM"}
+  },
+  "transit": {
+    "Purple Line": {"status": "delayed", "delay": "10 minutes", "last_updated": "2025-06-04 18:03:00"},
+    "BMTC Route 500": {"status": "on time", "delay": "0 minutes", "last_updated": "2025-06-04 18:03:00"}
+  },
+  "weather": {
+    "Bangalore": {"forecast": {"date": "2025-06-04", "condition": "partly cloudy", "high": "28°C", "low": "20°C", "rain_chance": "30%"}}
+  }
+}{
+  "traffic": {
+    "MG Road": {
+      "status": "heavy",
+      "speed": "15 km/h",
+      "last_updated": "2025-07-06 10:00 AM"
+    },
+    "Electronic City": {
+      "status": "moderate to heavy",
+      "speed": "25 km/h",
+      "last_updated": "2025-07-06 10:05 AM"
+    }
+  },
+  "events": {
+    "Palace Grounds": {
+      "event": "Bangalore Music Festival",
+      "date": "2025-08-15",
+      "time": "18:00"
+    }
+  },
+  "transit": {
+    "Purple Line": {
+      "status": "running on schedule",
+      "delay": "0 mins",
+      "last_updated": "2025-07-06 10:10 AM"
+    },
+    "Green Line": {
+      "status": "minor delay",
+      "delay": "5 mins",
+      "last_updated": "2025-07-06 10:12 AM"
+    }
+  },
+  "weather": {
+    "Bangalore": {
+      "current": "partly cloudy",
+      "temperature": "28°C",
+      "last_updated": "2025-07-06 10:15 AM"
+    }
+  }
+}
